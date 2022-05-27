@@ -1,2 +1,2 @@
 # PictureBed
-xinmokunshou的图床
+xinmokunshou
